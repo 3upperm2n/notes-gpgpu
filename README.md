@@ -1,7 +1,13 @@
 # notes-gpgpu
 gpgpu notes
 
-### DP
+### People
+* http://people.maths.ox.ac.uk/gilesm/cuda/
+
+
+
+### Programming Feature
+##### DP
 There is also a hardware limit on maximum nesting depth, and thus synchronization depth; 
 as of Compute Capability 3.5, the hardware limit on depth is 24 levels.
 
